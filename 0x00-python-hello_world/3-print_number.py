@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-year = 2022
-print(f"It is {year:d}.")
+number = 98
+print(f"{number:d} Battery street")
